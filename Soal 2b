@@ -7,7 +7,7 @@ def Hitung(matrix, dimensi):
     for i in range(0, dimensi):
         diagonal_a += matrix[i][i]
         diagonal_b += matrix[i][dimensi - i - 1]
-    print("Diagonal A:"+str(diagonal_b)+" Sedangkan Diagonal B: "+str(diagonal_b))
+    print("Diagonal A:"+str(diagonal_a)+" Sedangkan Diagonal B: "+str(diagonal_b))
     print("Total Diagonal A+B: "+str(diagonal_a+diagonal_b))
 
 Hitung(matrix, 3)
