@@ -24,6 +24,6 @@ Soal 2b:
 
 Matrix 3x3: [[11, 2, 4], [4, 5, 6], [10, 8, 12]]
 
-Diagonal A:19 Sedangkan Diagonal B: 19
+Diagonal A:28 Sedangkan Diagonal B: 19
 
 Total Diagonal A+B: 47
