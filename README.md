@@ -4,11 +4,11 @@ Output:
 
 Soal 1:
 
-Kata: katak
+Kata: basi
 
-Kebalikan: katak
+Kebalikan: isab
 
-true
+false
 
 Soal 2a:
 
