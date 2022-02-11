@@ -9,8 +9,8 @@ def terbalik(kata):
 if kata == terbalik(kata):
     print("Kata: "+kata)
     print("Kebalikan: "+terbalik(kata))
-    print("true")
+    print("Hasil : true")
 else:
     print("Kata: "+kata)
     print("Kebalikan: "+terbalik(kata))
-    print("false")
+    print("Hasil : false")
