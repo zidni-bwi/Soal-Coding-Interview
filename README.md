@@ -8,7 +8,7 @@ Kata: basi
 
 Kebalikan: isab
 
-false
+Hasil : false
 
 Soal 2a:
 
