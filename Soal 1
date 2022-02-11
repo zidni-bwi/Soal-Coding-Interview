@@ -1,4 +1,4 @@
-kata = "katak"
+kata = "basi"
 
 def terbalik(kata):
     kata0 = ""
